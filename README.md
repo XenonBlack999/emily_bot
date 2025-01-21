@@ -33,5 +33,7 @@ To set up the bot locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/penetration-helper-bot.git
-   cd penetration-helper-bot
+   sudo apt install git
+   git clone https://github.com/XenonBlack999/emily_bot.git
+   cd emily_bot
+   python3 emily_bot.py
