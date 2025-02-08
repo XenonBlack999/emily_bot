@@ -1,15 +1,12 @@
-# Penetration Testing Helper Bot 🔒
+# Emily - Your AI Assistant for Cybersecurity
 
 ## Overview
-
 Penetration Testing Helper Bot is a Python-based tool that simplifies common penetration testing workflows. This helper bot can:
 - Scan websites for vulnerabilities.
 - Provide a list of necessary penetration testing engines/tools suitable for the scanned target.
 - Generate easy-to-understand results to help new penetration testers feel comfortable using it.
 
 This project is ideal for students, professionals, or anyone looking to automate portions of their ethical hacking and security assessment tasks.
-
----
 
 ## Features
 
@@ -26,14 +23,17 @@ This project is ideal for students, professionals, or anyone looking to automate
   - Add new engines and features for advanced users.
 
 ---
+## Requirements
+
+- Python 3.x
+- Required Python packages:
+  - nmap (install using pip install python-nmap)
+  - ipaddress (included in Python standard library)
 
 ## Installation
 
-To set up the bot locally, follow these steps:
-
-1. Clone the repository:
+1. Clone this repository or download the script.
+2. Install the required packages:
    ```bash
-   sudo apt install git
-   git clone https://github.com/XenonBlack999/emily_bot.git
-   cd emily_bot
-   python3 emily_bot.py
+   pip install python-nmap
+   
