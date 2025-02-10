@@ -1,5 +1,5 @@
 # Emily - Your AI Assistant for Cybersecurity
-
+#(free Version)
 ## Overview
 Penetration Testing Helper Bot is a Python-based tool that simplifies common penetration testing workflows. This helper bot can:
 - Scan websites for vulnerabilities.
